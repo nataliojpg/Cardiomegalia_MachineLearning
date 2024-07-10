@@ -52,6 +52,20 @@ Más detalles en el archivo **02_Limpieza** en la carpeta **notebooks** .
   • **Precision:** 0.8
   
   • **AUC-ROC Score:** 0.87
+
+
+  ## Herramientas
+  • Python
+  • TensorFlow.Keras
+  • Numpy
+  • Pandas
+  • Seaborn
+  • Matplotlib.pyplot
+  
+  
+  
+
+  
   
   
 
