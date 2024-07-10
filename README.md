@@ -1,4 +1,4 @@
-![Banner](/imgs_readme/banner.png)
+![Banner](./imgs_readme/banner.png)
 # Predicción de Cardiomegalia usando Machine Learning
 Este proyecto se centra en el desarrollo de un modelo de machine learning capaz de predecir la presencia de cardiomegalia en radiografías de tórax. La cardiomegalia, que se caracteriza por un agrandamiento anormal del corazón, puede ser indicativa de varias condiciones médicas serias.
 
@@ -7,8 +7,8 @@ El proyecto está organizado en las siguientes carpetas:
 
   • **app:** Despliegue del modelo en Streamlit
 
-    ▸ **app.py:** código para la aplicación web
-    ▸ **requirements.txt:** dependencias para la aplicación
+    ▸ app.py: código para la aplicación web
+    ▸ requirements.txt: dependencias para la aplicación
   
   • **data:** Contiene las radiografías en formato PNG, divididas en las siguientes subcarpetas
   
@@ -25,15 +25,15 @@ El proyecto está organizado en las siguientes carpetas:
   
   • **notebooks:** Contiene los Jupyter Notebooks utilizados en el proyecto:
   
-    ▸ **01_Fuentes:** adquisición de datos
-    ▸ **02_Limpieza:** transformaciones y limpiezas, análisis exploratorio
-    ▸ **03_Entrenamiento_Evaluacion:** entrenamiento de modelos y su evaluación con métricas
+    ▸ 01_Fuentes: adquisición de datos
+    ▸ 02_Limpieza: transformaciones y limpiezas, análisis exploratorio
+    ▸ 03_Entrenamiento_Evaluacion: entrenamiento de modelos y su evaluación con métricas
 
   • **src:** Código fuente en Python
   
-    ▸ **data_processing:** código para procesar los datos
-    ▸ **training:** código para entrenar y guardar el modelo
-    ▸ **evaluation:** código para evaluar modelo
+    ▸ data_processing: código para procesar los datos
+    ▸ training: código para entrenar y guardar el modelo
+    ▸ evaluation: código para evaluar modelo
 
 
 
